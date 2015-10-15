@@ -1,12 +1,10 @@
 .gradle
-<<<<<<< HEAD
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 /build
 /captures
-=======
 build/
 
 # Ignore Gradle GUI config
@@ -14,4 +12,3 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
->>>>>>> e0b67131b5a48e965f7de02c1879feb3441ba8d4
